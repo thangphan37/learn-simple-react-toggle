@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/learn-simple-react-toggle/static/css/main.c3fd3b46.chunk.css",
+    "main.js": "/learn-simple-react-toggle/static/js/main.2a88f5b9.chunk.js",
+    "main.js.map": "/learn-simple-react-toggle/static/js/main.2a88f5b9.chunk.js.map",
+    "runtime-main.js": "/learn-simple-react-toggle/static/js/runtime-main.65764d75.js",
+    "runtime-main.js.map": "/learn-simple-react-toggle/static/js/runtime-main.65764d75.js.map",
+    "static/js/2.7dd6299c.chunk.js": "/learn-simple-react-toggle/static/js/2.7dd6299c.chunk.js",
+    "static/js/2.7dd6299c.chunk.js.map": "/learn-simple-react-toggle/static/js/2.7dd6299c.chunk.js.map",
+    "index.html": "/learn-simple-react-toggle/index.html",
+    "precache-manifest.164e45631fd81ab6fa67bcaa6b18afdf.js": "/learn-simple-react-toggle/precache-manifest.164e45631fd81ab6fa67bcaa6b18afdf.js",
+    "service-worker.js": "/learn-simple-react-toggle/service-worker.js",
+    "static/css/main.c3fd3b46.chunk.css.map": "/learn-simple-react-toggle/static/css/main.c3fd3b46.chunk.css.map",
+    "static/js/2.7dd6299c.chunk.js.LICENSE.txt": "/learn-simple-react-toggle/static/js/2.7dd6299c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.65764d75.js",
+    "static/js/2.7dd6299c.chunk.js",
+    "static/css/main.c3fd3b46.chunk.css",
+    "static/js/main.2a88f5b9.chunk.js"
+  ]
+}
